@@ -1,0 +1,27 @@
+_repo: Kun-mies-on-mies_71702
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wright, Harold Bell
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '1146'
+    url: http://www.gutenberg.org/2009/agents/1146
+    wikipedia: https://en.wikipedia.org/wiki/Harold_Bell_Wright
+description: ''
+gutenberg_issued: '2023-09-22'
+identifiers:
+  gutenberg: '71702'
+language: fi
+pgterms:marc905: 20230817062642wright
+pgterms:marc906: '1957'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kun mies on mies
+url: http://www.gutenberg.org/ebooks/71702
